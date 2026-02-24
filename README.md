@@ -17,7 +17,7 @@ This project demonstrates Abstraction, Inheritance, and Polymorphism using an ab
 ✅ Clean OOP Structure
 
 After understanding these concepts, I performed a small task to calculate the area of different shapes using abstraction.
-
+__________________________________________________________________________________________________________________________
 📂 Project Description
 
 An abstract class shape contains an abstract method:
@@ -33,10 +33,11 @@ rectAngle → Calculates area using formula: length × width
 In the main method, polymorphism is demonstrated by creating references of type shape.
 
 This small project helped me understand how abstraction works in real coding practice 💡
-
+__________________________________________________________________________________________________________________________
 🖥️ Screenshot of Output
-![Program Output](Output.png)
 
+![Program Output](Output.png)
+__________________________________________________________________________________________________________________________
 🚀 How to Run
 
 Clone the repository
@@ -44,12 +45,12 @@ Clone the repository
 Open in any Java IDE (Eclipse, IntelliJ, VS Code)
 
 Run AbstractClass.java
-
+___________________________________________________________________________________________________________________________
 🌱 Learning Journey
 
 I am continuously improving my Java and OOP skills.
 Every small project is a step toward becoming a better developer 💻✨
-
+___________________________________________________________________________________________________________________________
 👩‍💻 Author
 
 Laiba Azeem
